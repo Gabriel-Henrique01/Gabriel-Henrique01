@@ -1,11 +1,12 @@
 ## Olá, Me chamo Gabriel Henrique 👋
 
-Sou estudante de ADS no SENAI e cursando o 3° ano do E.M no SESI
+Formado em ADS através da escola SENAI ITU "Italo Bolonga".
+Cursando o primeiro periodo de ADS na FACENS.
 
 - 🔭 Trabalho com Back-End.
-- 🌱 Estudante de ADS do SENAI.
-- 👯 Finalizando Ensino Medio no SESI.
-- 🤔 Especializado em PHP.
+- 🌱 Estudante de ADS da FACENS.
+- 👯 Ensino Medio no SESI.
+- 🤔 PHP intermediário.
 - 📧 Contato: gahenrique513@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique01&show_icons=true&theme=tokyonight)
