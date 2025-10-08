@@ -1,7 +1,7 @@
 ## Olá, Me chamo Gabriel Henrique 👋
 
 Formado em ADS através da escola SENAI ITU "Italo Bolonga".
-Cursando o primeiro periodo de ADS na FACENS.
+Cursando o segundo periodo de ADS na FACENS.
 
 - 🔭 Trabalho com Back-End.
 - 🌱 Estudante de ADS da FACENS.
